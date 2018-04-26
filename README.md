@@ -20,11 +20,11 @@ sudo chkconfig influxdb on
 ### install
 
 ```
-rpm -ivh mongodb-org-mongos-3.6.4-1.el6.x86_64
-rpm -ivh mongodb-org-server-3.6.4-1.el6.x86_64
-rpm -ivh mongodb-org-shell-3.6.4-1.el6.x86_64
-rpm -ivh mongodb-org-tools-3.6.4-1.el6.x86_64
-rpm -ivh mongodb-org-3.6.4-1.el6.x86_64
+sudo rpm -ivh mongodb-org-mongos-3.6.4-1.el6.x86_64
+sudo rpm -ivh mongodb-org-server-3.6.4-1.el6.x86_64
+sudo rpm -ivh mongodb-org-shell-3.6.4-1.el6.x86_64
+sudo rpm -ivh mongodb-org-tools-3.6.4-1.el6.x86_64
+sudo rpm -ivh mongodb-org-3.6.4-1.el6.x86_64
 ```
 
 ### service
